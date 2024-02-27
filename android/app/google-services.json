@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709450181741",
+    "project_id": "vivatech1-cf6db",
+    "storage_bucket": "vivatech1-cf6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709450181741:android:306d0334c420d7cafea364",
+        "android_client_info": {
+          "package_name": "com.example.test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6HG3Yc4LSeK50aUD_HFTvEbXGzgrRxh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
